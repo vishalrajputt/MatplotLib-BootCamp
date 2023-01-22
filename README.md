@@ -35,7 +35,7 @@ pyplot.savefig(filename): Saves the current plot to a file with the specified fi
 
 It is important to note that the pyplot module needs to be imported before using these functions.
 
-Example:
+# Example:
 
 import matplotlib.pyplot as plt
 plt.plot(x, y)
