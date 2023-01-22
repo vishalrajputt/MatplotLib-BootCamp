@@ -35,13 +35,3 @@ pyplot.savefig(filename): Saves the current plot to a file with the specified fi
 
 It is important to note that the pyplot module needs to be imported before using these functions.
 
-# Example:
-
-import matplotlib.pyplot as plt
-plt.plot(x, y)
-plt.xlabel('X-axis')
-plt.ylabel('Y-axis')
-plt.title('Line Plot')
-plt.show()
-
-This will create a line plot of x vs y with labeled x and y axis and title 'Line Plot'
